@@ -9,14 +9,13 @@ My love for technology has cultivated a strong passion for cybersecurity, motiva
 Skills
 ---------
 
-Skill	Associated Project
-[Splunk on Ubuntu – Log Monitoring Project](https://github.com/cjtaylo02-projects/splunk-linux-deployment)
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
-Tools
+### Skill-Associated Projects
+- [Splunk on Ubuntu – Log Monitoring Project](https://github.com/cjtaylo02-projects/splunk-linux-deployment)
+- Network Traffic Monitoring and Attack Detection Lab
+- Security Automation with Shuffle SOAR SOC Automation Lab
+- Incident Response Planning and Execution SOC Automation Lab
+- Case Management with TheHive SOC Automation Lab
+- Scripting and Automation for Threat Mitigation SOC Automation Lab
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 Network
