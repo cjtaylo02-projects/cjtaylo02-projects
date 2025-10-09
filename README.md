@@ -10,7 +10,7 @@ Skills
 ---------
 
 Skill	Associated Project
-Deployed and configured [Splunk Enterprise on a Linux server]([https://github.com/yourusername/splunk-lab)](https://github.com/cjtaylo02-projects/splunk-linux-deployment) for centralized log management.
+[Splunk on Ubuntu – Log Monitoring Project](https://github.com/cjtaylo02-projects/splunk-linux-deployment)
 Network Traffic Monitoring and Attack Detection	Detection Lab
 Security Automation with Shuffle SOAR	SOC Automation Lab
 Incident Response Planning and Execution	SOC Automation Lab
