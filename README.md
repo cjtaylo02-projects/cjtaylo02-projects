@@ -24,7 +24,7 @@ Endpoint
  
 SIEM
   
-### Credentials
+Credentials
 ---------
 - [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/a36226e2-9e6b-4230-a611-4504aac101ca/public_url) – Verified by CompTIA via Credly
 -  B.S. in Cybersecurity Analytics & Operations, Minor in IST, Penn State University
