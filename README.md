@@ -24,8 +24,8 @@ Endpoint
  
 SIEM
   
-Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Certifications
+- [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/a36226e2-9e6b-4230-a611-4504aac101ca/public_url) – Verified by CompTIA via Credly
 
     
 Projects
