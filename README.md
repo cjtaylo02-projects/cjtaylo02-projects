@@ -11,7 +11,7 @@ Skills
 
 ### Skill-Associated Projects
 - [Splunk on Ubuntu – Log Monitoring Project](https://github.com/cjtaylo02-projects/splunk-linux-deployment)
-- [Wireshark on Windows - PCAP Monitoring and Attack Detection](https://github.com/cjtaylo02-projects/network-traffic-monitoring-lab)
+- [Wireshark on Windows - PCAP Monitoring and Attack Detection Lab](https://github.com/cjtaylo02-projects/network-traffic-monitoring-lab)
 - Security Automation with Shuffle SOAR SOC Automation Lab
 - Incident Response Planning and Execution SOC Automation Lab
 - Case Management with TheHive SOC Automation Lab
