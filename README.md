@@ -1,4 +1,4 @@
-Hello, I'm Caleb Taylor
+Hello, I'm Caleb Taylor!
 
 I am a recent Cybersecurity graduate with a strong passion for technology and a commitment to solving complex security challenges through analytical thinking and innovative solutions.
 
