@@ -12,6 +12,7 @@ Skills
 ### Skill-Associated Projects
 - [Splunk on Ubuntu – Log Monitoring Project](https://github.com/cjtaylo02-projects/splunk-linux-deployment)
 - [Wireshark on Windows - PCAP Monitoring and Attack Detection Lab](https://github.com/cjtaylo02-projects/network-traffic-monitoring-lab)
+- [Raspberry Pi Secure At-home DNS Server - Personal Project](https://github.com/cjtaylo02-projects/RaspberryPi-Secure-DNS)
   
 Credentials
 ---------
